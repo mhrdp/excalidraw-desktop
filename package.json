@@ -40,6 +40,10 @@
       ],
       "icon": "build/icon2.ico"
     },
+    "linux": {
+      "target": "AppImage",
+      "icon": "build/icon2.ico"
+    },
     "msi": {
       "oneClick": false,
       "perMachine": false
